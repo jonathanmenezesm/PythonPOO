@@ -28,5 +28,6 @@ print(g2.mensagem())
 
 g3 = Gafanhoto()
 g3.nome = "Jony"
-g3.idade = 28
+g3.idade = 27
+g3.aniversario()
 print(g3.mensagem())
