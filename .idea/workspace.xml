@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a80159ce-71df-41be-add1-3ce14479a99d" name="Changes" comment="Aula 04 - Melhorando classe e objeto">
+    <list default="true" id="a80159ce-71df-41be-add1-3ce14479a99d" name="Changes" comment="Desafio21 adicionado">
+      <change afterPath="$PROJECT_DIR$/desafios/desafio022/desafio22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,17 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Jonathan/OneDrive/Documentos/Estudos/Curso em video/PythonPOO"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jonathan\OneDrive\Documentos\Estudos\Curso em video\PythonPOO\exercicios" />
@@ -113,13 +115,66 @@
       <option name="project" value="LOCAL" />
       <updated>1768883824519</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Desafio16 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126288694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126288694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Desafio17 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126306400</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126306400</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Desafio18 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126331981</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126331981</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Desafio19 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126346638</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126346638</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Desafio19 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126554000</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126554000</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Desafio21 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126753287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126753287</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula 04 - Iniciando POO" />
     <MESSAGE value="Aula 04 - Declarando classe e objeto" />
     <MESSAGE value="Aula 04 - Melhorando classe e objeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 04 - Melhorando classe e objeto" />
+    <MESSAGE value="Desafio16 adicionado" />
+    <MESSAGE value="Desafio17 adicionado" />
+    <MESSAGE value="Desafio18 adicionado" />
+    <MESSAGE value="Desafio19 adicionado" />
+    <MESSAGE value="Desafio21 adicionado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio21 adicionado" />
   </component>
 </project>
