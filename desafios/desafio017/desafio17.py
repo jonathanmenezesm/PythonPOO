@@ -3,7 +3,9 @@
 # Saida:
 # etiqueta() > Um quadrado com etiqueta (usar lib rich) exibindo nome e preço.
 
+from rich.panel import Panel
 from rich.console import Console
+from rich.align import Align
 
 class Produto:
     def __init__(self, nome, preco):
@@ -11,4 +13,11 @@ class Produto:
         self.preco = preco
 
     def etiqueta(self):
-        console = Console('Teste')
+        console = Console()
+        conteudo = Align.center(f'{self.nome} \n'
+                         f'R$ {self.preco:.2f}')
+        etiqueta = Panel(conteudo, title='Etiqueta', width=30)
+        console.print(etiqueta)
+
+p1 = Produto('Maquina', 500)
+p1.etiqueta()
