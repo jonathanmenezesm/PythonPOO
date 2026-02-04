@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a80159ce-71df-41be-add1-3ce14479a99d" name="Changes" comment="Desafio21 adicionado">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio022/desafio22.py" afterDir="false" />
+    <list default="true" id="a80159ce-71df-41be-add1-3ce14479a99d" name="Changes" comment="Desafio22 adicionado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio016/desafio16.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio016/desafio16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.desafio16.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -163,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770126753287</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Desafio22 adicionado">
+      <option name="closed" value="true" />
+      <created>1770126959314</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770126959314</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,6 +184,7 @@
     <MESSAGE value="Desafio18 adicionado" />
     <MESSAGE value="Desafio19 adicionado" />
     <MESSAGE value="Desafio21 adicionado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio21 adicionado" />
+    <MESSAGE value="Desafio22 adicionado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio22 adicionado" />
   </component>
 </project>
