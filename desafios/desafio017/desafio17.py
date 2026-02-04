@@ -14,10 +14,14 @@ class Produto:
 
     def etiqueta(self):
         console = Console()
-        conteudo = Align.center(f'{self.nome} \n'
-                         f'R$ {self.preco:.2f}')
-        etiqueta = Panel(conteudo, title='Etiqueta', width=30)
+        # conteudo = Align.center(f'{self.nome} \n'
+        #                  f'R$ {self.preco:.2f}')
+        # etiqueta = Panel(conteudo, title='Etiqueta', width=30)
+        etiqueta = Panel(f'{self.nome:^30}\n{"":-^30}\n {self.preco:.^30,.2f}',title="Produto",width=35)
         console.print(etiqueta)
 
 p1 = Produto('Maquina', 500)
 p1.etiqueta()
+
+p2 = Produto('Camiseta', 100)
+p2.etiqueta()
