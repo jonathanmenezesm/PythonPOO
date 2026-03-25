@@ -2,6 +2,7 @@
 
 # Saida:
 # etiqueta() > Um quadrado com etiqueta (usar lib rich) exibindo nome e preço.
+<<<<<<< HEAD
 
 from rich.panel import Panel
 from rich.console import Console
@@ -25,3 +26,5 @@ p1.etiqueta()
 
 p2 = Produto('Camiseta', 100)
 p2.etiqueta()
+=======
+>>>>>>> 376e9d0 (Adicionar arquivo .gitignore e ajustar método apresentar na classe Funcionario)
