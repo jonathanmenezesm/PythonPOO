@@ -5,6 +5,8 @@
 # considere 400g por pessoa
 # preço da carne: R$82,40/kg
 # analisar():
+
+
 # quadrado usando rich
 # Analisando "titulo" com "convidados"
 # cada participante comerá 0.4kg e cada Kg custa R$82.40
@@ -43,3 +45,4 @@ class Churrasquinho():
 
 c1 = Churrasquinho("Churrascria", 50)
 c1.analisar()
+

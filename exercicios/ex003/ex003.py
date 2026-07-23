@@ -2,7 +2,7 @@ class ContaBancaria:
     """
     Cria uma conta bancária e permite fazer saques e depositos
     """
-    def __init__(self, id, nome, saldo):
+    def __init__(self, id, nome, saldo = 0):
         self.id = id
         self.titular = nome
         self.saldo = saldo

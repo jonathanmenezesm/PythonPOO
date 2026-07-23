@@ -10,7 +10,7 @@ class Funcionario:
         self.empresa = empresa
 
     def apresentar(self):
-        if self.empresa == "Genérica":
+        if not self.empresa:
             print(f"Olá, eu me chamo {self.nome} e sou {self.cargo} do setor {self.setor}.")
         else:
             print(f"Olá, eu me chamo {self.nome} e sou {self.cargo} do setor {self.setor} na empresa {self.empresa}.")
